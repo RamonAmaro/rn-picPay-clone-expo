@@ -12,7 +12,7 @@ const items = [
   {
     key: String(Math.random()),
     img: img8,
-    title: "petra gostosa",
+    title: "Pague suas contas sem sair de casa",
     bgColor: "#172c4a",
   },
   {
